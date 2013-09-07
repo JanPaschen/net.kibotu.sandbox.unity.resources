@@ -2,7 +2,7 @@
 
 "banner.png":
 {
-	"frame": {"x":327,"y":2,"w":608,"h":264},
+	"frame": {"x":327,"y":1,"w":608,"h":264},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":10,"y":10,"w":608,"h":264},
@@ -18,7 +18,7 @@
 },
 "chat.png":
 {
-	"frame": {"x":2,"y":2,"w":325,"h":800},
+	"frame": {"x":1,"y":1,"w":325,"h":800},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":800},
@@ -26,7 +26,7 @@
 },
 "optionpannel.png":
 {
-	"frame": {"x":2,"y":802,"w":212,"h":209},
+	"frame": {"x":1,"y":802,"w":212,"h":209},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":209},
@@ -34,19 +34,19 @@
 },
 "shop.png":
 {
-	"frame": {"x":540,"y":266,"w":164,"h":139},
+	"frame": {"x":541,"y":266,"w":164,"h":139},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":139},
 	"sourceSize": {"w":164,"h":139}
 }},
 "meta": {
-	"app": "http://www.codeandweb.com/texturepacker ",
+	"app": "http://www.texturepacker.com",
 	"version": "1.0",
 	"image": "ui_menu.png",
 	"format": "RGBA8888",
 	"size": {"w":1024,"h":1024},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:1dfcbe75ef1d0f09109086118ae4d40a:1/1$"
+	"smartupdate": "$TexturePacker:SmartUpdate:379628cf4d6fb9715de1e26ead8a948b$"
 }
 }
