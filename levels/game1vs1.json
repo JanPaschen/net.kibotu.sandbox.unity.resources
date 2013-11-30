@@ -1,9 +1,10 @@
 {
   "players": [
     {
-      "uid": 0,
+      "uid": %playeruid%,
       "islands": [
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
@@ -13,6 +14,7 @@
           ]
         },
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
@@ -24,9 +26,10 @@
       ]
     },
     {
-      "uid": 1,
+	  "uid" : %playeruid%,
       "islands": [
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
@@ -36,6 +39,7 @@
           ]
         },
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
@@ -47,9 +51,10 @@
       ]
     },
     {
-      "uid": 0,
+	  "uid" : %playeruid%,
       "islands": [
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
@@ -59,6 +64,7 @@
           ]
         },
         {
+		  "uid" : %uid%,
           "type": 0,
           "ship-type": 0,
           "position": [
