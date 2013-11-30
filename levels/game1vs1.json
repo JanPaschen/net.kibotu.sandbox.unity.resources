@@ -1,0 +1,73 @@
+{
+  "players": [
+    {
+      "uid": 0,
+      "islands": [
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            310,
+            50,
+            -50
+          ]
+        },
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            310,
+            350,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "uid": 1,
+      "islands": [
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            70,
+            50,
+            70
+          ]
+        },
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            70,
+            350,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "uid": 0,
+      "islands": [
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            -150,
+            200,
+            -30
+          ]
+        },
+        {
+          "type": 0,
+          "ship-type": 0,
+          "position": [
+            550,
+            200,
+            -100
+          ]
+        }
+      ]
+    }
+  ]
+}
