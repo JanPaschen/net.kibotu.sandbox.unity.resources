@@ -51,7 +51,7 @@
       ]
     },
     {
-	  "uid" : %playeruid%,
+	  "uid" : %botuid%,
       "islands": [
         {
 		  "uid" : %uid%,
