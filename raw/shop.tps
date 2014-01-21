@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>../ui/mainmenu/ui_menu.png</filename>
+        <filename>../ui/Shop/shop.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -127,12 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../ui/mainmenu/ui_menu.json</filename>
-            </struct>
-            <key>java</key>
-            <struct type="DataFile">
-                <key>name</key>
-                <filename>../ui/720x/atlases/ui_menu.java</filename>
+                <filename>../ui/Shop/shop.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -159,7 +154,7 @@
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>innerPadding</key>
-            <uint>2</uint>
+            <uint>0</uint>
             <key>extrude</key>
             <uint>0</uint>
             <key>trimThreshold</key>
@@ -171,16 +166,14 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>banner.png</filename>
-            <filename>button.png</filename>
-            <filename>optionpannel.png</filename>
-            <filename>chat.png</filename>
-            <filename>shop.png</filename>
-            <filename>../ui/network/images/activity.png</filename>
-            <filename>../ui/network/images/connected.png</filename>
-            <filename>../ui/network/images/disconnected.png</filename>
-            <filename>../ui/network/images/error.png</filename>
-            <filename>../ui/network/images/ok.png</filename>
+            <filename>../ui/Shop/Bilder/upgrades.png</filename>
+            <filename>../ui/Shop/Bilder/boosts.png</filename>
+            <filename>../ui/Shop/Bilder/buffs.png</filename>
+            <filename>../ui/Shop/Bilder/buy.png</filename>
+            <filename>../ui/Shop/Bilder/center.png</filename>
+            <filename>../ui/Shop/Bilder/left.png</filename>
+            <filename>../ui/Shop/Bilder/right.png</filename>
+            <filename>../ui/Shop/Bilder/Skins.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
