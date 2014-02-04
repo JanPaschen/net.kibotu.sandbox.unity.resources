@@ -1,38 +1,42 @@
 {
-  "island-type": [
-	"model":"island",
-    "ship-build-time":3,
-	"max-spawn":10,
-	"current-spawn":3,
-	"max-hp":10,
-	"current-hp":10,
-	"armor":0,
-	"max-shild":0,
-	"current-shild":0,
-	"hp-regen":0,
-	"shild-regen":0,	
-	"repair-rate":2
+  "island-type": [ 
+	{
+		"model" : "island",
+		"ship-build-time" : 3,
+		"max-spawn" : 10,
+		"current-spawn" : 3,
+		"max-hp" :10,
+		"current-hp" : 10,
+		"armor" : 0,
+		"max-shild" : 0,
+		"current-shild" : 0,
+		"hp-regen" : 0,
+		"shild-regen" : 0,	
+		"repair-rate" : 2
+	}
   ],
   "ship-type": [
-	"model":"papership",
-    "max-hp":10,
-	"current-hp":10,
-	"armor":0,
-	"max-shild":0,
-	"current-shild":0,
-	"shild-regen":0,	
-	"attack-damage":1,
-	"attack-speed": 2,
-	"acceleration":0,
-	"max-velocity":0
+	{
+		"model" : "papership",
+		"max-hp" : 10,
+		"current-hp" : 10,
+		"armor" : 0,
+		"max-shild" : 0,
+		"current-shild" : 0,
+		"shild-regen" : 0,	
+		"attack-damage" : 1,
+		"attack-speed" : 2,
+		"acceleration" : 0,
+		"max-velocity" : 0
+	}
   ],
-  "world":{
+  "world" : {
 	"witdth" :1500,
 	"height" : 1200,
 	"depth"   : 50
    },
 	
-  "players": [
+  "players" : [
     {
       "uid": %playeruid%,
       "islands": [
