@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>../InGameHud/publish/in_game_hud.png</filename>
+        <filename>publish/main_menu.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -127,7 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../InGameHud/publish/in_game_hud.json</filename>
+                <filename>publish/main_menu.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
