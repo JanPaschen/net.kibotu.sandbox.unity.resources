@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>published/shop.png</filename>
+        <filename>publish/shop.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -127,7 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>published/shop.json</filename>
+                <filename>publish/shop.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
