@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>../ui/ingamehud/in_game_hud.png</filename>
+        <filename>../InGameHud/publish/in_game_hud.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -68,9 +68,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>1024</int>
+            <int>2048</int>
             <key>height</key>
-            <int>1024</int>
+            <int>2048</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -127,7 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../ui/ingamehud/in_game_hud.json</filename>
+                <filename>../InGameHud/publish/in_game_hud.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -166,11 +166,11 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>../ui/ui_HUD/skills.png</filename>
-            <filename>../ui/ui_HUD/corner.png</filename>
-            <filename>../ui/ui_HUD/map.png</filename>
-            <filename>../ui/ui_HUD/menu.png</filename>
-            <filename>../ui/ui_HUD/resources.png</filename>
+            <filename>raw/optionpannel.png</filename>
+            <filename>raw/shop.png</filename>
+            <filename>raw/banner.png</filename>
+            <filename>raw/button.png</filename>
+            <filename>raw/chat.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

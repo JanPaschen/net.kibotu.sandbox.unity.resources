@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>profile_mat.png</filename>
+        <filename>published/profile_mat.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -127,7 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>profile.json</filename>
+                <filename>published/profile.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -166,8 +166,8 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>profile.png</filename>
-            <filename>boosts.png</filename>
+            <filename>raw/profile.png</filename>
+            <filename>raw/boosts.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

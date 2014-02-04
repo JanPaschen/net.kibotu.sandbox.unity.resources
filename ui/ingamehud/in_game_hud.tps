@@ -36,7 +36,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>published/shop.png</filename>
+        <filename>publish/in_game_hud.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -127,7 +127,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>published/shop.json</filename>
+                <filename>publish/in_game_hud.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -166,12 +166,11 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>raw/boosts.png</filename>
-            <filename>raw/buffs.png</filename>
-            <filename>raw/buy.png</filename>
-            <filename>raw/center.png</filename>
-            <filename>raw/Skins.png</filename>
-            <filename>raw/upgrades.png</filename>
+            <filename>raw/corner.png</filename>
+            <filename>raw/map.png</filename>
+            <filename>raw/menu.png</filename>
+            <filename>raw/resources.png</filename>
+            <filename>raw/skills.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
