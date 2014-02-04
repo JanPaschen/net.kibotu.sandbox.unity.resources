@@ -9,20 +9,9 @@
           "ship-type": 0,
 		  "max-spawn" : 1,
           "position": [
-            310,
-            50,
-            -50
-          ]
-        },
-        {
-		  "uid" : %uid%,
-          "type": 0,
-          "ship-type": 0,
-		  "max-spawn" : 1,
-          "position": [
-            310,
-            350,
-            50
+            100,
+            100,
+            0
           ]
         }
       ]
@@ -36,20 +25,9 @@
           "ship-type": 0,
 		  "max-spawn" : 1,
           "position": [
-            70,
-            50,
-            70
-          ]
-        },
-        {
-		  "uid" : %uid%,
-          "type": 0,
-          "ship-type": 0,
-		  "max-spawn" : 1,
-          "position": [
-            70,
-            350,
-            35
+            740,
+            540,
+            0
           ]
         }
       ]
@@ -63,9 +41,9 @@
           "ship-type": 0,
 		  "max-spawn" : 1,
           "position": [
-            -150,
-            200,
-            -30
+            240,
+            80,
+            0
           ]
         },
         {
@@ -74,9 +52,97 @@
           "ship-type": 0,
 		  "max-spawn" : 1,
           "position": [
-            550,
-            200,
-            -100
+            120,
+            0,
+            280
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            480,
+            0,
+            80
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            320,
+            -30,
+            340
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            160,
+            30,
+            480
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            680,
+            -20,
+            140
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            520,
+            20,
+            280
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            360,
+            -20,
+            560
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            600,
+            -50,
+            560
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            720,
+            50,
+            360
           ]
         }
       ]

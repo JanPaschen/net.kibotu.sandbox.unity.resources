@@ -1,0 +1,85 @@
+{
+  "players": [
+    {
+      "uid": %playeruid%,
+      "islands": [
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            310,
+            50,
+            -50
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            310,
+            350,
+            50
+          ]
+        }
+      ]
+    },
+    {
+	  "uid" : %playeruid%,
+      "islands": [
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            70,
+            50,
+            70
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            70,
+            350,
+            35
+          ]
+        }
+      ]
+    },
+    {
+	  "uid" : %botuid%,
+      "islands": [
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            -150,
+            200,
+            -30
+          ]
+        },
+        {
+		  "uid" : %uid%,
+          "type": 0,
+          "ship-type": 0,
+		  "max-spawn" : 1,
+          "position": [
+            550,
+            200,
+            -100
+          ]
+        }
+      ]
+    }
+  ]
+}
