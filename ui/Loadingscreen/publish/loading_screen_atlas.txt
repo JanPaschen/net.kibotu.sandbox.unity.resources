@@ -1,0 +1,36 @@
+{"frames": {
+
+"LoadingscreenZeiger.png":
+{
+	"frame": {"x":674,"y":208,"w":21,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":95},
+	"sourceSize": {"w":21,"h":95}
+},
+"loadingscreenMain.png":
+{
+	"frame": {"x":4,"y":4,"w":656,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":656,"h":314},
+	"sourceSize": {"w":656,"h":314}
+},
+"loadingscreenPendel.png":
+{
+	"frame": {"x":674,"y":4,"w":106,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":190},
+	"sourceSize": {"w":106,"h":190}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "loading_screen_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":784,"h":322},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ee719637d3b93684f4892a6c54faf79:e3c06f060be00742ed745c416f1ed31b:b01f0d31c41d0831c730b5df1b780724$"
+}
+}

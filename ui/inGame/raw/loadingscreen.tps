@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.3.4</string>
         <key>fileName</key>
-        <string>D:/programming/sandbox/unity/resources/ui/MainMenu/main_menu.tps</string>
+        <string>D:/programming/sandbox/unity/resources/ui/inGame/raw/loadingscreen.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -30,7 +30,7 @@
         <key>allowRotation</key>
         <false/>
         <key>premultiplyAlpha</key>
-        <false/>
+        <true/>
         <key>shapeDebug</key>
         <false/>
         <key>dpi</key>
@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>publish/main_menu_atlas.png</filename>
+        <filename>../../Loadingscreen/publish/loading_screen_atlas.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -56,7 +56,7 @@
             </struct>
         </struct>
         <key>shapePadding</key>
-        <uint>2</uint>
+        <uint>10</uint>
         <key>jpgQuality</key>
         <uint>80</uint>
         <key>pngOptimizationLevel</key>
@@ -72,9 +72,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>2048</int>
+            <int>1024</int>
             <key>height</key>
-            <int>2048</int>
+            <int>1024</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -92,7 +92,7 @@
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
-            <enum type="AlgorithmSettings::SizeConstraints">POT</enum>
+            <enum type="AlgorithmSettings::SizeConstraints">AnySize</enum>
             <key>forceSquared</key>
             <false/>
             <key>forceWordAligned</key>
@@ -131,7 +131,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>publish/main_menu_atlas.json</filename>
+                <filename>../../Loadingscreen/publish/loading_screen_atlas.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -158,13 +158,13 @@
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>innerPadding</key>
-            <uint>0</uint>
+            <uint>2</uint>
             <key>extrude</key>
-            <uint>0</uint>
+            <uint>2</uint>
             <key>trimThreshold</key>
-            <uint>1</uint>
+            <uint>5</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">Trim</enum>
+            <enum type="SpriteSettings::TrimMode">Crop</enum>
             <key>heuristicMask</key>
             <false/>
             <key>pivotPoint</key>
@@ -172,14 +172,9 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>raw/optionpannel.png</filename>
-            <filename>raw/shop.png</filename>
-            <filename>raw/banner.png</filename>
-            <filename>raw/button.png</filename>
-            <filename>raw/chat.png</filename>
-            <filename>../Loadingscreen/raw/loadingscreenPendel.png</filename>
-            <filename>../Loadingscreen/raw/LoadingscreenZeiger.png</filename>
-            <filename>../Loadingscreen/raw/loadingscreenMain.png</filename>
+            <filename>../../Loadingscreen/raw/loadingscreenPendel.png</filename>
+            <filename>../../Loadingscreen/raw/LoadingscreenZeiger.png</filename>
+            <filename>../../Loadingscreen/raw/loadingscreenMain.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
