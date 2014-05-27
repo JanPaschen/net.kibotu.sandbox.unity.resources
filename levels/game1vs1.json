@@ -31,7 +31,7 @@
 	}
   ],
   "world" : {
-	"witdth" :1500,
+	"width" :1500,
 	"height" : 1200,
 	"depth"   : 50
    },
@@ -39,11 +39,12 @@
   "players" : [
     {
       "uid": %playeruid%,
+	  "type": "player",
       "islands": [
         {
 		  "uid" : %uid%,
           "type": 0,
-          "ship-type": 0,
+          "ship-type": 1,
 		  "max-spawn" : 1,
           "position": [
             200,
@@ -55,11 +56,12 @@
     },
     {
 	  "uid" : %playeruid%,
+	  "type": "player",
       "islands": [
         {
 		  "uid" : %uid%,
           "type": 0,
-          "ship-type": 0,
+          "ship-type": 1,
 		  "max-spawn" : 1,
           "position": [
             1480,
@@ -71,6 +73,7 @@
     },
     {
 	  "uid" : %botuid%,
+	  "type": "neutral",
       "islands": [
         {
 		  "uid" : %uid%,
