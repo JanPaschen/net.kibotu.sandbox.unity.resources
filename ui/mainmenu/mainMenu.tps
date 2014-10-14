@@ -183,6 +183,7 @@
             <filename>raw/btn_aktion.png</filename>
             <filename>raw/banner.png</filename>
             <filename>raw/chat.png</filename>
+            <filename>raw/button2.png</filename>
             <filename>raw/button.png</filename>
         </array>
         <key>ignoreFileList</key>

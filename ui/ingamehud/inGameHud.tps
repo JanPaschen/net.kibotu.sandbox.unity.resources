@@ -4,9 +4,9 @@
         <key>fileFormatVersion</key>
         <int>3</int>
         <key>texturePackerVersion</key>
-        <string>3.3.4</string>
+        <string>3.4.0</string>
         <key>fileName</key>
-        <string>D:/programming/sandbox/unity/resources/ui/MainMenu/main_menu.tps</string>
+        <string>D:/programming/sandbox/unity/resources/ui/InGameHud/inGameHud.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -36,9 +36,9 @@
         <key>dpi</key>
         <uint>72</uint>
         <key>dataFormat</key>
-        <string>json</string>
+        <string>unity-texture2d</string>
         <key>textureFileName</key>
-        <filename>publish/main_menu_atlas.png</filename>
+        <filename>../../../unity/Assets/Resources/Ui/Menu/inGameHud.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -131,7 +131,12 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>publish/main_menu_atlas.json</filename>
+                <filename></filename>
+            </struct>
+            <key>datafile</key>
+            <struct type="DataFile">
+                <key>name</key>
+                <filename>../../../unity/Assets/Resources/Ui/Menu/inGameHud.tpsheet</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -149,6 +154,8 @@
         <true/>
         <key>trimSpriteNames</key>
         <false/>
+        <key>prependSmartFolderName</key>
+        <false/>
         <key>cleanTransparentPixels</key>
         <true/>
         <key>globalSpriteSettings</key>
@@ -164,7 +171,7 @@
             <key>trimThreshold</key>
             <uint>1</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">Trim</enum>
+            <enum type="SpriteSettings::TrimMode">CropKeepPos</enum>
             <key>heuristicMask</key>
             <false/>
             <key>pivotPoint</key>
@@ -172,14 +179,16 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>raw/optionpannel.png</filename>
-            <filename>raw/shop.png</filename>
-            <filename>raw/banner.png</filename>
-            <filename>raw/button.png</filename>
-            <filename>raw/chat.png</filename>
-            <filename>../Loadingscreen/raw/loadingscreenPendel.png</filename>
-            <filename>../Loadingscreen/raw/LoadingscreenZeiger.png</filename>
-            <filename>../Loadingscreen/raw/loadingscreenMain.png</filename>
+            <filename>raw/corner.png</filename>
+            <filename>raw/map.png</filename>
+            <filename>raw/menu.png</filename>
+            <filename>raw/resources.png</filename>
+            <filename>raw/skills.png</filename>
+            <filename>../Network/raw/activity.png</filename>
+            <filename>../Network/raw/connected.png</filename>
+            <filename>../Network/raw/disconnected.png</filename>
+            <filename>../Network/raw/error.png</filename>
+            <filename>../Network/raw/ok.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
